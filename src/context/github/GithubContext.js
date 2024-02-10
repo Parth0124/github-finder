@@ -1,4 +1,3 @@
-// GithubProvider.js
 import { createContext, useReducer } from "react";
 import GithubReducer from "./GithubReducer";
 
